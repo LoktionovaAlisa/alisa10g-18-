@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+body{
+    padding-top: 40px;
+}
+header{
+    width: 80%;
+    height: 40px;
+    background-color: #a3a2a2;
+    position: fixed;
+    top: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    color: rgba(255, 255, 255, 0.938);
+    align-items: center;
+    text-align: center;
+}
+.shavkat{
+  margin-top: 40px;  
+  text-align: center;
+}
